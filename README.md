@@ -1,2 +1,2 @@
 # tict-tac-toe
-Tic-Tac-Toe program in Python, Javascript, C++
+Simple Tic-Tac-Toe program in Python, Javascript, C++
